@@ -1,0 +1,11 @@
+/*Google Fonts*/
+<style>
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Questrial&display=swap');
+</style>
+font-family: 'Questrial', sans-serif;
+font-family: 'EB Garamond', serif;
+
+/*Components files*/
+@import url("components/avatar.css")
+@import url("components/banner.css")
+@import url("components/button.css")
